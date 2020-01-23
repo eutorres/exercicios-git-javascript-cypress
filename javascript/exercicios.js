@@ -10,3 +10,7 @@ function ordemCrescente() {
 function compararNumeros(a, b) {
     return a - b;
 }
+
+function teste(){
+
+}
